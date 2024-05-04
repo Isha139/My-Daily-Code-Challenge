@@ -10,3 +10,7 @@ This is my Daily Code Challenge, Challenging myself to stay consistent in coding
 # Day 4
 # Q5. You are given an integer ‘n’.Function ‘sumOfDivisors(n)’ is defined as the sum of all divisors of ‘n’.Find the sum of ‘sumOfDivisors
 # Find the sum of ‘sumOfDivisors(i)’ for all ‘i’ from 1 to ‘n’.
+# Day 5
+# Q6. A prime number is a positive integer that is divisible by exactly 2 integers, 1 and the number itself.You are given a number 'n'.
+# Find out whether 'n' is prime or not.
+# Q7. You are given two integers 'n', and 'm'.Calculate 'gcd(n,m)', without using library functions.
