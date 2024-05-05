@@ -14,3 +14,5 @@ This is my Daily Code Challenge, Challenging myself to stay consistent in coding
 # Q6. A prime number is a positive integer that is divisible by exactly 2 integers, 1 and the number itself.You are given a number 'n'.
 # Find out whether 'n' is prime or not.
 # Q7. You are given two integers 'n', and 'm'.Calculate 'gcd(n,m)', without using library functions.
+# Day 6 (Recursion Basics)
+# Q8. You are given an integer ‘n’.Your task is to return an array containing integers from 1 to ‘n’ (in increasing order) without using loops
