@@ -15,4 +15,5 @@ This is my Daily Code Challenge, Challenging myself to stay consistent in coding
 # Find out whether 'n' is prime or not.
 # Q7. You are given two integers 'n', and 'm'.Calculate 'gcd(n,m)', without using library functions.
 # Day 6 (Recursion Basics)
-# Q8. You are given an integer ‘n’.Your task is to return an array containing integers from 1 to ‘n’ (in increasing order) without using loops
+# Q8. You are given an integer ‘n’.Your task is to return an array containing integers from 1 to ‘n’ (in increasing order) without using loops 
+mistyped day 6 as day 7 during commit.
