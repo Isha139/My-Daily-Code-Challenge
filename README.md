@@ -17,3 +17,5 @@ This is my Daily Code Challenge, Challenging myself to stay consistent in coding
 # Day 6 (Recursion Basics)
 # Q8. You are given an integer ‘n’.Your task is to return an array containing integers from 1 to ‘n’ (in increasing order) without using loops 
 # mistyped day 6 as day 7 during commit.
+# Day 7
+# Q9. You are given an integer ‘n’.Print “Coding Ninjas ” ‘n’ times, without using a loop.
