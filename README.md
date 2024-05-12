@@ -28,4 +28,8 @@ This is my Daily Code Challenge, Challenging myself to stay consistent in coding
 # Q13. The Fibonacci numbers, commonly denoted F(n) form a sequence, called the Fibonacci sequence, such that each number is the sum of the two preceding ones, starting from 0 and 1. That is,F(0) = 0, F(1) = 1,  F(n) = F(n - 1) + F(n - 2), for n > 1.
 # Q14. Reverse of an Array using recursion.
 # Q15. Given a string s, return true if it is a palindrome, or false otherwise.
+# Day 11
+# Q16. Count frequency of a number using hasing.
+# Q17. Count frequency of String(lower case) using hashing.
+# Q18. Count frequency of String(lowercase & Uppercase) using hashing.
 
