@@ -32,4 +32,5 @@ This is my Daily Code Challenge, Challenging myself to stay consistent in coding
 # Q16. Count frequency of a number using hasing.
 # Q17. Count frequency of String(lower case) using hashing.
 # Q18. Count frequency of String(lowercase & Uppercase) using hashing.
-
+# Day 12
+# Q19. Find Highest and Lowest Frequency of an element using Hashing.
