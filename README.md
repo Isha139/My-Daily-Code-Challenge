@@ -38,3 +38,5 @@ This is my Daily Code Challenge, Challenging myself to stay consistent in coding
 # Q21. Selection Sort
 # Day 14
 # Q20. Bubble Sort
+# Day 15
+# Q22. Insertion Sort
