@@ -40,3 +40,6 @@ This is my Daily Code Challenge, Challenging myself to stay consistent in coding
 # Q20. Bubble Sort
 # Day 15
 # Q22. Insertion Sort
+# Break because of end semesters examination, but from today onwards back on track.
+# Day 1
+# Q23. Merge Sort
