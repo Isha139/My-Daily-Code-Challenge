@@ -43,3 +43,5 @@ This is my Daily Code Challenge, Challenging myself to stay consistent in coding
 # Break because of end semesters examination, but from today onwards back on track.
 # Day 1
 # Q23. Merge Sort
+# Day 2
+# Q24. Quick Sort

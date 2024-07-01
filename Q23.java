@@ -73,8 +73,7 @@ public class Q23 {
             System.out.println();
         }
     
-    public static void main(String args[])
-    {
+    public static void main(String args[]){
         int arr[] = { 12, 11, 13, 5, 6, 7 };
 
         System.out.println("Given array is");
