@@ -45,3 +45,6 @@ This is my Daily Code Challenge, Challenging myself to stay consistent in coding
 # Q23. Merge Sort
 # Day 2
 # Q24. Quick Sort
+# Day 3
+# Q25. 	Recursive Insertion Sort
+# Q26. Recursive Selection Sort
