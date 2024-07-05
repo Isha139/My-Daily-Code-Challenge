@@ -48,3 +48,5 @@ This is my Daily Code Challenge, Challenging myself to stay consistent in coding
 # Day 3
 # Q25. 	Recursive Insertion Sort
 # Q26. Recursive Selection Sort
+# Day 4
+# Q27. Given an array, we have to find the largest element in the array.
