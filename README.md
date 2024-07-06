@@ -50,3 +50,6 @@ This is my Daily Code Challenge, Challenging myself to stay consistent in coding
 # Q26. Recursive Selection Sort
 # Day 4
 # Q27. Given an array, we have to find the largest element in the array.
+# Day 5
+# Q28. Given an array, find the second smallest and second largest element in the array. Print ‘-1’ in the event that either of them doesn’t exist.
+# Q29. Given an array nums, return true if the array was originally sorted in non-decreasing order, then rotated some number of positions (including zero). Otherwise, return false.
