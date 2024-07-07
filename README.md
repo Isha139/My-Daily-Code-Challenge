@@ -53,3 +53,7 @@ This is my Daily Code Challenge, Challenging myself to stay consistent in coding
 # Day 5
 # Q28. Given an array, find the second smallest and second largest element in the array. Print ‘-1’ in the event that either of them doesn’t exist.
 # Q29. Given an array nums, return true if the array was originally sorted in non-decreasing order, then rotated some number of positions (including zero). Otherwise, return false.
+# Day 6
+# Q30. Given an integer array sorted in non-decreasing order, remove the duplicates in place such that each unique element appears only once. The relative order of the elements should be kept the same.
+# Q31. Given an array of N integers, right rotate the array by one place
+# Q32. Given an array of N integers, left rotate the array by one place
