@@ -57,3 +57,6 @@ This is my Daily Code Challenge, Challenging myself to stay consistent in coding
 # Q30. Given an integer array sorted in non-decreasing order, remove the duplicates in place such that each unique element appears only once. The relative order of the elements should be kept the same.
 # Q31. Given an array of N integers, right rotate the array by one place
 # Q32. Given an array of N integers, left rotate the array by one place
+# Day 7
+# Q33. Given an array of integers, rotating array of elements by k elements left.
+# Q34. Given an array of integers, rotating array of elements by k elements right.
