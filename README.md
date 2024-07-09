@@ -60,3 +60,4 @@ This is my Daily Code Challenge, Challenging myself to stay consistent in coding
 # Day 7
 # Q33. Given an array of integers, rotating array of elements by k elements left.
 # Q34. Given an array of integers, rotating array of elements by k elements right.
+# Q35. Given an integer array nums, move all 0's to the end of it while maintaining the relative order of the non-zero elements.
