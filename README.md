@@ -63,4 +63,5 @@ This is my Daily Code Challenge, Challenging myself to stay consistent in coding
 # Q35. Given an integer array nums, move all 0's to the end of it while maintaining the relative order of the non-zero elements.
 # Day 8
 # Q36. Given an array arr[] sorted in ascending order of size N and an integer K. Check if K is present in the array or not.
-# Q37. Given two sorted arrays of size n and m respectively, find their union. The Union of two arrays can be defined as the common and distinct elements in the two arrays. Return the elements in sorted order.
+# Day 9
+# Q37. Given two sorted arrays, arr1, and arr2 of size n and m. Find the union of two sorted arrays.
